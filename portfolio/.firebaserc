@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "portfolio-fccde": {
+      "hosting": {
+        "portfolio": [
+          "portfolio-fccde"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "portfolio-fccde"
+  }
+}
